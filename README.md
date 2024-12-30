@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+#### I'm currently working on developing tools to simulate investment scenarios
+#### Professionally, I'm coder, data scientist, financial analyst, trader, and product manager 😉
+#### Personally, I'm just a curious soul trying to problem solve and enjoy! 😉
+#### Hit me up at perpetualid.harsh@gmail.com
 <!--
 **codeonomics/codeonomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
